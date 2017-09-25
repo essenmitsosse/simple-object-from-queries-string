@@ -1,6 +1,6 @@
 {
 	"name": "simple-object-from-queries-string",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Returns an object, based on the url queries string.",
 	"main": "simple-object-from-queries-string.js",
 	"files": [
